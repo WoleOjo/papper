@@ -1,0 +1,26 @@
+{
+  "../components/PropertyCard.js -> ./partials/CardImage": {
+    "id": "../components/PropertyCard.js -> ./partials/CardImage",
+    "files": [
+      "static/chunks/components_partials_CardImage_js.js"
+    ]
+  },
+  "../components/PropertyCard.js -> ./partials/CardImageSlider": {
+    "id": "../components/PropertyCard.js -> ./partials/CardImageSlider",
+    "files": [
+      "static/chunks/components_partials_CardImageSlider_js.js"
+    ]
+  },
+  "papperboy/catalog.js -> ../../components/partials/CustomMarker": {
+    "id": "papperboy/catalog.js -> ../../components/partials/CustomMarker",
+    "files": [
+      "static/chunks/components_partials_CustomMarker_js.js"
+    ]
+  },
+  "papperboy/catalog.js -> react-leaflet": {
+    "id": "papperboy/catalog.js -> react-leaflet",
+    "files": [
+      "static/chunks/node_modules_react-leaflet_esm_index_js.js"
+    ]
+  }
+}
