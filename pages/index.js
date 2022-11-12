@@ -252,9 +252,9 @@ const IndexPage = () => {
               </Dropdown>
             </h1>
             <p className="text-lg-start text-center mb-4 mb-lg-5 fs-lg">
-              Papperboy is your access to premium investments in Africa. 
-              We select and invest in the most daring and impactful projects in Africa.
-              
+              Papperboy is your access to premium investments in Africa. We
+              select and invest in the most daring and impactful projects in
+              Africa. Helping businesses thrive and supporting Africa's growth.
             </p>
 
             {/* Search form */}
